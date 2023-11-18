@@ -546,6 +546,10 @@ video {
   left: 1rem;
 }
 
+.left-9 {
+  left: 2.25rem;
+}
+
 .top-\[2rem\] {
   top: 2rem;
 }
@@ -568,10 +572,6 @@ video {
 
 .h-\[80vh\] {
   height: 80vh;
-}
-
-.w-40 {
-  width: 10rem;
 }
 
 .w-80 {
